@@ -4,7 +4,7 @@
 .slideshow-container {
   max-width: 1000px;
   position: fixed;
-  margin: left:80px; top:20px;
+  margin: left:80px;
 }
 
 /* Hide the images by default */
