@@ -3,8 +3,16 @@
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: fixed;
-  margin: left:80px;
+ <html>
+   <head>
+   </head>
+
+   <body>
+      <div style = "position:fixed; left:80px; top:20px; background-color:yellow;">
+         This div has fixed positioning.
+      </div>
+   </body>
+</html>
 }
 
 /* Hide the images by default */
