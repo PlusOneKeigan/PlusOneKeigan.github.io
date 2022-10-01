@@ -3,8 +3,8 @@
 /* Slideshow container */
 .slideshow-container {
   max-width: 1000px;
-  position: center;
-  margin: auto;
+  position: fixed;
+  margin: left:80px; top:20px;
 }
 
 /* Hide the images by default */
